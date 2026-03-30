@@ -1,4 +1,4 @@
-DIGITAL LITERACY QUIZ
+GOOGLE FORM LINK:
 https://docs.google.com/forms/d/e/1FAIpQLSd79ifwUsQZTkgvO1DNetCbdTVg8ziIbhWbCzmGb-Al0gLl4A/viewform?usp=header
 ---
 For this task, I explored two essential digital categories: coding practice and cloud collaboration. In Part A, I used HackerRank to solve the 'Solve Me First' challenge. This helped me practice basic logic building and problem-solving, which are crucial for my B.Tech in CSE (AIML) studies. I found the platform's immediate feedback system very helpful for debugging my code.
