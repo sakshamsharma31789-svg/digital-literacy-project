@@ -33,6 +33,9 @@ Task 5 – Cybercrime Awareness Worked on a cybercrime case study and created a 
 
 Some useful websites
 ===
+Task 1:
+Canvas link:https://www.canva.com/design/DAHFg-vPAGU/ibcmu-DIDpJei9lD5acCjw/edit?ui=eyJEIjp7IlMiOnRydWV9LCJBIjp7IkEiOiJkb3dubG9hZF9wZGZfc3RkIiwiRiI6dHJ1ZX19
+
 Task 2:
 Github link:
 Linkedin link:https://www.linkedin.com/in/saksham-sharma-26382437a?utm_source=share_via&utm_content=profile&utm_medium=member_android
