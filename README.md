@@ -30,9 +30,26 @@ Task 4 – Email Etiquette Wrote two professional emails and created a checklist
 
 Task 5 – Cybercrime Awareness Worked on a cybercrime case study and created a prevention checklist to stay safe online.
 
----
+
 Some useful websites
 ===
+Task 2:
+Github link:
+Linkedin link:https://www.linkedin.com/in/saksham-sharma-26382437a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Kaggle link:https://www.kaggle.com/sakshamsharma008
+
+Task 3:
+
+Hackerrank link:https://www.hackerrank.com/profile/sakshamsharma312
+
+Google Form link:https://docs.google.com/forms/d/e/1FAIpQLSd79ifwUsQZTkgvO1DNetCbdTVg8ziIbhWbCzmGb-Al0gLl4A/viewform?usp=dialog
+
+Task 5:
+
+Cyber Crime Portal link: https://cybercrime.gov.in/Webform/Accept.aspx
+
+
 Conclusion
 ===
-This prject has helped me learn a lot about digital skills like creating online profiles,solving problems(hackerrank), using other tools, writing emails, and understanding about cyber safety. It has also helped me to improve awareness how mine about how to use digital platforms responsibly.
+This project has helped me learn a lot about digital skills like creating online profiles,solving problems(hackerrank), using other tools, writing emails, and understanding about cyber safety. It has also helped me to improve awareness how mine about how to use digital platforms responsibly.
